@@ -1,0 +1,200 @@
+{"event_id":"njyc25dcb","timestamp":"2025-08-01T00:04:25.122Z","type":"api_call","user":"alice_smith","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":6107,"response":{"status":404,"body_size":19703}}}
+{"event_id":"9bszojn3v","timestamp":"2025-08-01T11:25:40.812Z","type":"click","user":"user123","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1770,"y":814}}
+{"type":"pageview","uid":"alice_smith","created_at":"2025-08-05T13:45:05.025Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":3}
+{"transaction_id":"11213e95-1146-4b98-8cf3-76ae3573f31f","customer_id":"","event_name":"purchase_completed","occurred_at":"2025-08-02T16:00:57.274Z","order_details":{"total_amount":"146.65","currency":"USD","items":[{"product_id":"SKU-9a01j8eng","quantity":1,"price":"65.94"}]}}
+{"event_id":"ua6fo9lnh","timestamp":"2025-08-04T21:39:26.795Z","type":"api_call","user":"","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":7327,"response":{"status":400,"body_size":10265}}}
+{"event":"page_view","user_id":null,"timestamp":"2025-08-02 19:40:11","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"z8kioydp1","duration":293}}
+{"event":"page_view","user_id":"","timestamp":"2025-07-31 00:44:59","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"vyr98krfe","duration":110}}
+{"event":"page_view","user_id":"bob-wilson","timestamp":"2025-08-02 07:31:55","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"f5d54gbiq","duration":141}}
+{"transaction_id":"9694ed61-5969-42dd-bd6d-51848dcde635","customer_id":"user123","event_name":"purchase_completed","occurred_at":"2025-07-31T20:00:56.374Z","order_details":{"total_amount":"182.56","currency":"USD","items":[{"product_id":"SKU-6ipntkb5b","quantity":1,"price":"98.62"}]}}
+{"id":"0wtlv1dmx","time_stamp":1754203335,"transaction_type":"sale","customer":"alice_smith","amount":155.01,"payment_method":"bank_transfer","items":3}
+{"event":"page_view","user_id":"guest","timestamp":"2025-08-06 18:31:54","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"1dsvyzd6t","duration":293}}
+{"error":true,"timestamp":"Fri Aug 01 2025 21:18:30 GMT-0400 (Eastern Daylight Saving Time)","user_id":"admin","error_code":"403","message":"Database connection timeout","stack_trace":null}
+{"eventId":"qmqh0var0","time":1754130787175,"event_type":"user_interaction","sub_type":"click","user_identifier":null,"target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"event_id":"xu2k7hsrj","timestamp":"2025-08-01T14:15:38.092Z","type":"api_call","user":"john.doe","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":6871,"response":{"status":200,"body_size":8848}}}
+{"timestamp":"invalid-date","action":"logout","userId":"admin"}
+{"transaction_id":"9f7bbe3b-ee1c-4318-af5f-0dd4285796c9","customer_id":"bob-wilson","event_name":"purchase_completed","occurred_at":"2025-08-06T11:34:09.158Z","order_details":{"total_amount":"149.32","currency":"USD","items":[{"product_id":"SKU-abwlmk3cc","quantity":3,"price":"42.70"}]}}
+{"id":"3064ax5y7","time_stamp":1754033125,"transaction_type":"sale","customer":"john.doe","amount":165.81,"payment_method":"paypal","items":4}
+{"id":"t6s7xwb2u","time_stamp":1754143775,"transaction_type":"sale","customer":"alice_smith","amount":145.71,"payment_method":"paypal","items":2}
+{"error":true,"timestamp":"Sat Aug 02 2025 07:55:52 GMT-0400 (Eastern Daylight Saving Time)","user_id":"guest","error_code":"500","message":"Database connection timeout","stack_trace":null}
+{"error":true,"timestamp":"Sun Aug 03 2025 18:43:13 GMT-0400 (Eastern Daylight Saving Time)","user_id":null,"error_code":"500","message":"Database connection timeout","stack_trace":null}
+{"id":"4f03de57-c699-4ad7-81a6-e6f5f5a7ed53","ts":1754101006,"action":"clicked_button","userId":null,"metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"6wqadthdc"}}
+{"type":"pageview","uid":"alice_smith","created_at":"2025-08-01T08:59:00.685Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":488}
+{"event_id":"p4cev3wz1","timestamp":"2025-08-04T18:09:31.133Z","type":"click","user":"alice_smith","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":551,"y":19}}
+{"event_id":"9f1cq9h5s","timestamp":"2025-08-05T20:34:18.759Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":6913,"response":{"status":201,"body_size":8203}}}
+{"timestamp":"invalid-date","action":"logout","userId":""}
+{"event":"page_view","user_id":"user123","timestamp":"2025-08-05 02:26:56","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"yeuu0z7ps","duration":75}}
+{"event_type":"form_submission","user":"user123"}
+{"id":"05ou1gla9","time_stamp":1754298148,"transaction_type":"sale","customer":"bob-wilson","amount":120.48,"payment_method":"paypal","items":5}
+{"event_id":"dbrhxo7g6","timestamp":"2025-07-31T13:54:21.021Z","type":"api_call","user":"","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":8249,"response":{"status":400,"body_size":22461}}}
+{"error":true,"timestamp":"Wed Aug 06 2025 06:16:13 GMT-0400 (Eastern Daylight Saving Time)","user_id":"alice_smith","error_code":"404","message":"Database connection timeout","stack_trace":null}
+{"event_id":"evhdd3s2a","timestamp":"2025-08-01T02:00:42.948Z","type":"click","user":null,"element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":699,"y":82}}
+{"event_type":"form_submission","user":"john.doe"}
+{"event_id":"eicwt2xqk","timestamp":"2025-08-05T09:31:03.037Z","type":"click","user":"bob-wilson","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1348,"y":1061}}
+{"id":"60m93y1xd","time_stamp":1754335429,"transaction_type":"sale","customer":"","amount":168,"payment_method":"credit_card","items":3}
+{"error":true,"timestamp":"Sun Aug 03 2025 04:38:01 GMT-0400 (Eastern Daylight Saving Time)","user_id":null,"error_code":"500","message":"Database connection timeout","stack_trace":null}
+{"login_event":true,"user":"guest","login_time":"2025-08-05T08:08:32.003Z","ip_address":"192.168.63.137","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"transaction_id":"5ec4810c-182a-4360-ace5-467883dee877","customer_id":"alice_smith","event_name":"purchase_completed","occurred_at":"2025-08-04T23:20:47.740Z","order_details":{"total_amount":"356.38","currency":"USD","items":[{"product_id":"SKU-uriyqgpzs","quantity":2,"price":"51.35"}]}}
+{"login_event":true,"user":"guest","login_time":"2025-07-31T03:06:11.091Z","ip_address":"192.168.135.57","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"type":"pageview","uid":"alice_smith","created_at":"2025-08-01T17:05:53.489Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":20}
+{"event_type":"form_submission","user":"john.doe"}
+{"type":"pageview","uid":"admin","created_at":"2025-08-02T22:33:33.039Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":965}
+{"event":"page_view","user_id":null,"timestamp":"2025-08-05 02:56:05","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"dpfhmeeqr","duration":143}}
+{"error":true,"timestamp":"Wed Aug 06 2025 02:31:54 GMT-0400 (Eastern Daylight Saving Time)","user_id":"guest","error_code":"403","message":"Database connection timeout","stack_trace":null}
+{"login_event":true,"user":"guest","login_time":"2025-08-06T02:22:20.742Z","ip_address":"192.168.14.119","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"type":"pageview","uid":"admin","created_at":"2025-08-03T15:48:13.001Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":415}
+{"login_event":true,"user":"user123","login_time":"2025-08-03T06:52:45.260Z","ip_address":"192.168.127.116","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"id":"57fb24e6-9ce5-44c3-8e4f-4907df129056","ts":1754194869,"action":"clicked_button","userId":"bob-wilson","metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"kaz1s5km6"}}
+{"id":"1ac57f80-0af7-4e45-b9a4-d2daac737bd2","ts":1754382861,"action":"clicked_button","userId":null,"metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"x48bksqiq"}}
+{"event_type":"form_submission","user":"bob-wilson"}
+{"id":"8aaac873-118e-4962-8fa5-1b3ec731251c","ts":1754161143,"action":"clicked_button","userId":"user123","metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"mdajxar70"}}
+{"type":"pageview","uid":"guest","created_at":"2025-08-03T12:22:30.423Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":880}
+{"event":"page_view","user_id":"bob-wilson","timestamp":"2025-07-31 00:08:08","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"7jw1d24gi","duration":104}}
+{"event_type":"form_submission","user":"admin"}
+{"id":"327fd8ee-993a-4be8-92fc-f4e59a1702f6","ts":1754219477,"action":"clicked_button","userId":"admin","metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"a7n7ylu3p"}}
+{"timestamp":"invalid-date","action":"logout","userId":"user123"}
+{"id":"kj109h8a9","time_stamp":1754038099,"transaction_type":"sale","customer":"john.doe","amount":52.08,"payment_method":"credit_card","items":5}
+{"transaction_id":"ed96cdf9-7401-4044-a065-faf004e3a858","customer_id":null,"event_name":"purchase_completed","occurred_at":"2025-07-31T19:37:14.736Z","order_details":{"total_amount":"158.35","currency":"USD","items":[{"product_id":"SKU-rrhhfyt3g","quantity":1,"price":"61.37"}]}}
+{"type":"pageview","uid":"","created_at":"2025-08-03T12:32:19.986Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":446}
+{"transaction_id":"dbebcaf6-caf7-4a21-814b-3c84044db702","customer_id":"john.doe","event_name":"purchase_completed","occurred_at":"2025-08-04T06:12:45.143Z","order_details":{"total_amount":"309.85","currency":"USD","items":[{"product_id":"SKU-k2aogjsoe","quantity":2,"price":"5.05"}]}}
+{"event_id":"jqt9bh6ig","timestamp":"2025-08-02T15:21:38.499Z","type":"click","user":"user123","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1027,"y":753}}
+{"transaction_id":"f8f2115b-89b7-4aec-b025-bf93477a803c","customer_id":"alice_smith","event_name":"purchase_completed","occurred_at":"2025-08-06T14:42:10.180Z","order_details":{"total_amount":"323.46","currency":"USD","items":[{"product_id":"SKU-bvz0yxya1","quantity":1,"price":"44.55"}]}}
+{"login_event":true,"user":"admin","login_time":"2025-08-06T13:14:53.806Z","ip_address":"192.168.70.194","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"type":"pageview","uid":"john.doe","created_at":"2025-08-05T09:33:34.433Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":685}
+{"event":"page_view","user_id":"alice_smith","timestamp":"2025-08-02 19:27:37","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"uuqd7h1qo","duration":172}}
+{"type":"pageview","uid":"admin","created_at":"2025-07-31T01:55:09.997Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":155}
+{"event_id":"t5t4y7gvd","timestamp":"2025-08-02T20:53:27.468Z","type":"api_call","user":null,"api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":179,"response":{"status":200,"body_size":5645}}}
+{"id":"r1m50nopr","time_stamp":1754063397,"transaction_type":"sale","customer":"bob-wilson","amount":51.35,"payment_method":"credit_card","items":4}
+{"login_event":true,"user":"guest","login_time":"2025-08-01T11:52:23.969Z","ip_address":"192.168.248.96","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"login_event":true,"user":"guest","login_time":"2025-08-02T10:37:09.006Z","ip_address":"192.168.17.145","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"event_type":"form_submission","user":"bob-wilson"}
+{"event":"page_view","user_id":"user123","timestamp":"2025-08-01 08:21:19","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"lx7dh542o","duration":248}}
+{"login_event":true,"user":"bob-wilson","login_time":"2025-08-01T05:09:46.354Z","ip_address":"192.168.96.141","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"type":"pageview","uid":"bob-wilson","created_at":"2025-08-02T10:01:09.982Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":631}
+{"event":"page_view","user_id":"john.doe","timestamp":"2025-08-01 19:04:19","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"5uaj4pqax","duration":129}}
+{"event_id":"jdvgxd7i2","timestamp":"2025-08-03T15:17:05.429Z","type":"api_call","user":"guest","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":6742,"response":{"status":404,"body_size":31703}}}
+{"event_id":"qrnz768ch","timestamp":"2025-08-05T01:58:16.153Z","type":"api_call","user":"user123","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":1107,"response":{"status":400,"body_size":6683}}}
+{"event":"page_view","user_id":"alice_smith","timestamp":"2025-08-03 01:10:31","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"gjq9bmr0l","duration":233}}
+{"eventId":"0i20s4ibr","time":1753946296186,"event_type":"user_interaction","sub_type":"click","user_identifier":"admin","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"event_id":"urejozpm7","timestamp":"2025-08-04T20:13:11.046Z","type":"api_call","user":"user123","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":5017,"response":{"status":201,"body_size":20830}}}
+{"id":"mjgumcnam","time_stamp":1754455468,"transaction_type":"sale","customer":null,"amount":122.31,"payment_method":"credit_card","items":5}
+{"error":true,"timestamp":"Wed Aug 06 2025 15:07:29 GMT-0400 (Eastern Daylight Saving Time)","user_id":"admin","error_code":"502","message":"Database connection timeout","stack_trace":null}
+{"transaction_id":"7ca73faf-d30a-4727-b6d1-fba8d7e99a86","customer_id":"alice_smith","event_name":"purchase_completed","occurred_at":"2025-08-04T11:23:50.746Z","order_details":{"total_amount":"182.90","currency":"USD","items":[{"product_id":"SKU-0fsa33bez","quantity":3,"price":"81.49"}]}}
+{"id":"oamv98yfi","time_stamp":1754084338,"transaction_type":"sale","customer":"alice_smith","amount":168.02,"payment_method":"credit_card","items":5}
+{"event_type":"form_submission","user":null}
+{"event_id":"0n3rne87p","timestamp":"2025-08-01T04:47:45.373Z","type":"api_call","user":"john.doe","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":3716,"response":{"status":500,"body_size":44437}}}
+{"event":"page_view","user_id":"guest","timestamp":"2025-08-05 11:33:50","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"0imq7yo47","duration":284}}
+{"event_id":"ysr4secbu","timestamp":"2025-07-31T01:03:55.483Z","type":"click","user":"bob-wilson","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":427,"y":60}}
+{"type":"pageview","uid":"john.doe","created_at":"2025-08-02T15:34:26.140Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":888}
+{"transaction_id":"1c12d1ae-7f00-4512-aa72-d6c7fc535a0c","customer_id":"john.doe","event_name":"purchase_completed","occurred_at":"2025-08-04T20:13:38.566Z","order_details":{"total_amount":"276.97","currency":"USD","items":[{"product_id":"SKU-x4mbbc8pu","quantity":1,"price":"16.36"}]}}
+{"event_type":"form_submission","user":"guest"}
+{"timestamp":"invalid-date","action":"logout","userId":"alice_smith"}
+{"event":"page_view","user_id":"john.doe","timestamp":"2025-08-04 03:41:07","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"tvssfsg40","duration":242}}
+{"event_id":"v3aswu0rj","timestamp":"2025-08-03T22:12:33.934Z","type":"api_call","user":"user123","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":4411,"response":{"status":500,"body_size":40229}}}
+{"event_id":"q7onpc7dq","timestamp":"2025-08-05T06:18:56.898Z","type":"click","user":null,"element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":450,"y":418}}
+{"type":"pageview","uid":"admin","created_at":"2025-08-03T04:24:07.554Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":59}
+{"type":"pageview","uid":"","created_at":"2025-08-01T14:51:42.341Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":406}
+{"id":"c7sgsq7qg","time_stamp":1754131471,"transaction_type":"sale","customer":"","amount":109.54,"payment_method":"credit_card","items":3}
+{"timestamp":"invalid-date","action":"logout","userId":"john.doe"}
+{"id":"a8ffad86-caa8-4e9a-9ddf-437aef9bd971","ts":1754483658,"action":"clicked_button","userId":"user123","metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"912rg2cxr"}}
+{"error":true,"timestamp":"Sat Aug 02 2025 02:19:46 GMT-0400 (Eastern Daylight Saving Time)","user_id":"alice_smith","error_code":"404","message":"Database connection timeout","stack_trace":null}
+{"event_id":"9ojdaxuba","timestamp":"2025-08-03T23:36:48.363Z","type":"click","user":"user123","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1741,"y":20}}
+{"type":"pageview","uid":"","created_at":"2025-07-30T20:22:32.330Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":341}
+{"event_id":"1717fk5to","timestamp":"2025-07-31T19:18:36.403Z","type":"api_call","user":"alice_smith","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":7910,"response":{"status":201,"body_size":35805}}}
+{"eventId":"7htec4jj0","time":1754165157808,"event_type":"user_interaction","sub_type":"click","user_identifier":"admin","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"timestamp":"invalid-date","action":"logout","userId":"guest"}
+{"id":"hzq2tokeu","time_stamp":1754282338,"transaction_type":"sale","customer":"user123","amount":133.48,"payment_method":"bank_transfer","items":4}
+{"login_event":true,"user":"bob-wilson","login_time":"2025-08-01T05:08:19.263Z","ip_address":"192.168.145.216","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"event_id":"mlwqborwn","timestamp":"2025-08-03T20:49:33.068Z","type":"api_call","user":"guest","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":955,"response":{"status":500,"body_size":33625}}}
+{"event_id":"f0vre1jx5","timestamp":"2025-07-30T23:12:37.389Z","type":"click","user":"bob-wilson","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1833,"y":401}}
+{"login_event":true,"user":"guest","login_time":"2025-08-03T05:40:37.830Z","ip_address":"192.168.120.199","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"type":"pageview","uid":"user123","created_at":"2025-08-05T18:28:25.881Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":438}
+{"event":"page_view","user_id":"admin","timestamp":"2025-08-05 06:04:16","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"biavpjjj6","duration":266}}
+{"transaction_id":"6fb578c5-8bd1-4daa-9bf1-81e2f2de3067","customer_id":"","event_name":"purchase_completed","occurred_at":"2025-07-31T04:06:42.907Z","order_details":{"total_amount":"159.68","currency":"USD","items":[{"product_id":"SKU-uh4rzngsq","quantity":2,"price":"39.92"}]}}
+{"event_id":"g2wd7wbdk","timestamp":"2025-08-04T21:03:17.175Z","type":"click","user":"user123","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1272,"y":292}}
+{"event":"page_view","user_id":"john.doe","timestamp":"2025-08-03 22:11:20","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"an3zm8w2h","duration":40}}
+{"eventId":"h22bh1t8t","time":1754128871550,"event_type":"user_interaction","sub_type":"click","user_identifier":"bob-wilson","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"error":true,"timestamp":"Tue Aug 05 2025 16:28:16 GMT-0400 (Eastern Daylight Saving Time)","user_id":"user123","error_code":"403","message":"Database connection timeout","stack_trace":null}
+{"type":"pageview","uid":"john.doe","created_at":"2025-08-01T10:52:35.519Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":183}
+{"transaction_id":"9723ea57-7e14-462b-abbb-a9feec7754ff","customer_id":"admin","event_name":"purchase_completed","occurred_at":"2025-08-02T19:06:36.612Z","order_details":{"total_amount":"311.76","currency":"USD","items":[{"product_id":"SKU-c1xzdppyx","quantity":3,"price":"18.83"}]}}
+{"error":true,"timestamp":"Wed Jul 30 2025 16:21:57 GMT-0400 (Eastern Daylight Saving Time)","user_id":"john.doe","error_code":"404","message":"Database connection timeout","stack_trace":null}
+{"transaction_id":"d5da6242-cba2-4a14-94c9-1d0f29663021","customer_id":null,"event_name":"purchase_completed","occurred_at":"2025-08-05T08:24:57.421Z","order_details":{"total_amount":"294.89","currency":"USD","items":[{"product_id":"SKU-zpt1kiqc6","quantity":3,"price":"91.24"}]}}
+{"error":true,"timestamp":"Sun Aug 03 2025 12:38:01 GMT-0400 (Eastern Daylight Saving Time)","user_id":"john.doe","error_code":"502","message":"Database connection timeout","stack_trace":null}
+{"transaction_id":"b60dc18d-477f-4819-b8b1-979878ea3ad1","customer_id":"","event_name":"purchase_completed","occurred_at":"2025-08-01T10:15:01.614Z","order_details":{"total_amount":"125.56","currency":"USD","items":[{"product_id":"SKU-pi1r2e74f","quantity":3,"price":"84.76"}]}}
+{"event_id":"hv8osfttg","timestamp":"2025-07-31T00:29:15.710Z","type":"click","user":"guest","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1828,"y":857}}
+{"type":"pageview","uid":"john.doe","created_at":"2025-07-31T08:39:40.964Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":81}
+{"login_event":true,"user":"john.doe","login_time":"2025-08-04T10:16:47.809Z","ip_address":"192.168.148.94","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"error":true,"timestamp":"Wed Aug 06 2025 01:48:25 GMT-0400 (Eastern Daylight Saving Time)","user_id":"bob-wilson","error_code":"502","message":"Database connection timeout","stack_trace":null}
+{"error":true,"timestamp":"Fri Aug 01 2025 13:07:49 GMT-0400 (Eastern Daylight Saving Time)","user_id":"user123","error_code":"500","message":"Database connection timeout","stack_trace":null}
+{"event":"page_view","user_id":"admin","timestamp":"2025-08-03 01:42:58","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"5tj6jnuc8","duration":200}}
+{"id":"uf13fn7uc","time_stamp":1754338223,"transaction_type":"sale","customer":null,"amount":88.21,"payment_method":"credit_card","items":5}
+{"transaction_id":"524df7e5-903c-4659-8c8c-85c89cb2321e","customer_id":null,"event_name":"purchase_completed","occurred_at":"2025-08-04T20:44:17.165Z","order_details":{"total_amount":"18.41","currency":"USD","items":[{"product_id":"SKU-c8o85rkxh","quantity":2,"price":"91.35"}]}}
+{"timestamp":"invalid-date","action":"logout","userId":"alice_smith"}
+{"login_event":true,"user":"admin","login_time":"2025-08-03T12:31:24.579Z","ip_address":"192.168.204.97","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"eventId":"d0ifau45u","time":1754415202514,"event_type":"user_interaction","sub_type":"click","user_identifier":"guest","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"timestamp":"invalid-date","action":"logout","userId":"user123"}
+{"error":true,"timestamp":"Thu Jul 31 2025 02:58:23 GMT-0400 (Eastern Daylight Saving Time)","user_id":"alice_smith","error_code":"404","message":"Database connection timeout","stack_trace":null}
+{"event_type":"form_submission","user":"bob-wilson"}
+{"id":"62323cc5-fb0b-4f63-85f5-fdfde98fcdc8","ts":1753943254,"action":"clicked_button","userId":"john.doe","metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"ljdngb56a"}}
+{"transaction_id":"9b782aaa-bfba-4fd1-ad35-21915e22a8fa","customer_id":"admin","event_name":"purchase_completed","occurred_at":"2025-08-02T03:05:17.422Z","order_details":{"total_amount":"337.56","currency":"USD","items":[{"product_id":"SKU-yvvgxrpgs","quantity":1,"price":"49.55"}]}}
+{"error":true,"timestamp":"Tue Aug 05 2025 05:42:44 GMT-0400 (Eastern Daylight Saving Time)","user_id":"","error_code":"500","message":"Database connection timeout","stack_trace":null}
+{"event_type":"form_submission","user":"admin"}
+{"timestamp":"invalid-date","action":"logout","userId":"john.doe"}
+{"type":"pageview","uid":null,"created_at":"2025-08-03T08:13:39.708Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":136}
+{"event_id":"xl4svf886","timestamp":"2025-08-04T10:25:08.421Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":2106,"response":{"status":201,"body_size":20857}}}
+{"transaction_id":"f7f7a2d8-26ba-4947-8727-e6e0a8b25a89","customer_id":null,"event_name":"purchase_completed","occurred_at":"2025-08-03T15:16:38.292Z","order_details":{"total_amount":"163.64","currency":"USD","items":[{"product_id":"SKU-g7oi8nohz","quantity":2,"price":"99.96"}]}}
+{"eventId":"vc10o7jo3","time":1754284118271,"event_type":"user_interaction","sub_type":"click","user_identifier":"alice_smith","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"login_event":true,"user":"john.doe","login_time":"2025-07-31T23:17:29.935Z","ip_address":"192.168.129.231","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"transaction_id":"f4a724fd-bbb2-4899-bf38-a0263fd18d60","customer_id":"","event_name":"purchase_completed","occurred_at":"2025-08-02T08:54:05.093Z","order_details":{"total_amount":"460.47","currency":"USD","items":[{"product_id":"SKU-f41lvs3qu","quantity":3,"price":"88.16"}]}}
+{"transaction_id":"0e65174d-f599-4d73-a3b1-70b2ebc46747","customer_id":"","event_name":"purchase_completed","occurred_at":"2025-08-01T12:48:12.734Z","order_details":{"total_amount":"337.62","currency":"USD","items":[{"product_id":"SKU-r3u753a4l","quantity":1,"price":"98.71"}]}}
+{"event_type":"form_submission","user":"user123"}
+{"id":"glwws4tqm","time_stamp":1754287857,"transaction_type":"sale","customer":null,"amount":45.36,"payment_method":"paypal","items":2}
+{"event":"page_view","user_id":"bob-wilson","timestamp":"2025-08-04 06:16:58","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"gw9nz3k1q","duration":269}}
+{"event_type":"form_submission","user":null}
+{"eventId":"k83ab24xo","time":1754341957681,"event_type":"user_interaction","sub_type":"click","user_identifier":"user123","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"eventId":"blbdhcsc8","time":1753977672011,"event_type":"user_interaction","sub_type":"click","user_identifier":null,"target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"eventId":"d0vlr8no7","time":1754242453438,"event_type":"user_interaction","sub_type":"click","user_identifier":"john.doe","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"timestamp":"invalid-date","action":"logout","userId":"alice_smith"}
+{"type":"pageview","uid":"user123","created_at":"2025-07-31T16:32:12.199Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":819}
+{"event":"page_view","user_id":"alice_smith","timestamp":"2025-07-31 01:16:23","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"75wnhu5m0","duration":197}}
+{"login_event":true,"user":"alice_smith","login_time":"2025-08-02T17:28:04.973Z","ip_address":"192.168.139.219","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"event_id":"dm98d4ro8","timestamp":"2025-08-02T14:46:07.372Z","type":"click","user":"user123","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":59,"y":823}}
+{"eventId":"lsl1xn8sg","time":1753989264545,"event_type":"user_interaction","sub_type":"click","user_identifier":"guest","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"eventId":"dmvjuhguk","time":1753983870906,"event_type":"user_interaction","sub_type":"click","user_identifier":"","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"login_event":true,"user":"user123","login_time":"2025-07-31T10:43:53.588Z","ip_address":"192.168.191.183","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"id":"2ee8feba-71a1-4ac5-b4e2-d68e70d7a71a","ts":1754464846,"action":"clicked_button","userId":"bob-wilson","metadata":{"btn_label":"Submit Form","page":"/checkout","session_id":"1trc7e7ii"}}
+{"error":true,"timestamp":"Fri Aug 01 2025 08:36:17 GMT-0400 (Eastern Daylight Saving Time)","user_id":"admin","error_code":"403","message":"Database connection timeout","stack_trace":null}
+{"event":"page_view","user_id":"user123","timestamp":"2025-08-02 07:21:37","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"lekdsowge","duration":129}}
+{"type":"pageview","uid":"john.doe","created_at":"2025-08-03T09:43:35.189Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":531}
+{"event_id":"h46c2lxr9","timestamp":"2025-08-06T16:44:03.853Z","type":"click","user":"guest","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1763,"y":434}}
+{"eventId":"3tz8qov3t","time":1754468882777,"event_type":"user_interaction","sub_type":"click","user_identifier":"alice_smith","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"type":"pageview","uid":"admin","created_at":"2025-08-05T16:13:53.217Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":439}
+{"transaction_id":"4bfec9c6-6bb9-4762-9591-48bec40c459d","customer_id":null,"event_name":"purchase_completed","occurred_at":"2025-08-04T09:52:28.890Z","order_details":{"total_amount":"117.23","currency":"USD","items":[{"product_id":"SKU-cb61u0ywk","quantity":2,"price":"57.58"}]}}
+{"error":true,"timestamp":"Sat Aug 02 2025 16:57:46 GMT-0400 (Eastern Daylight Saving Time)","user_id":"bob-wilson","error_code":"502","message":"Database connection timeout","stack_trace":null}
+{"timestamp":"invalid-date","action":"logout","userId":"bob-wilson"}
+{"event_id":"7phd4o83q","timestamp":"2025-07-31T11:52:01.331Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":5168,"response":{"status":400,"body_size":14539}}}
+{"timestamp":"invalid-date","action":"logout","userId":"john.doe"}
+{"event":"page_view","user_id":"bob-wilson","timestamp":"2025-08-05 20:50:53","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"0k675946f","duration":13}}
+{"id":"gfa8oscb3","time_stamp":1754444932,"transaction_type":"sale","customer":null,"amount":194.56,"payment_method":"credit_card","items":4}
+{"timestamp":"invalid-date","action":"logout","userId":""}
+{"transaction_id":"036e581e-b049-46b1-8fe8-ed7ac10cad49","customer_id":"guest","event_name":"purchase_completed","occurred_at":"2025-08-02T00:26:18.458Z","order_details":{"total_amount":"222.69","currency":"USD","items":[{"product_id":"SKU-q3f0o21dg","quantity":3,"price":"103.98"}]}}
+{"type":"pageview","uid":"guest","created_at":"2025-08-04T02:35:09.275Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":789}
+{"type":"pageview","uid":"user123","created_at":"2025-08-03T12:42:21.816Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":115}
+{"event":"page_view","user_id":"alice_smith","timestamp":"2025-08-01 13:01:25","page":"/products/electronics","title":"Electronics - Client Store","session":{"id":"64fqyjl1n","duration":192}}
+{"event_id":"4j42iiij4","timestamp":"2025-08-04T06:55:29.644Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":6829,"response":{"status":400,"body_size":44909}}}
+{"event_id":"ilq4vl1j7","timestamp":"2025-08-06T17:46:14.481Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":7468,"response":{"status":400,"body_size":11204}}}
+{"event_id":"t36aovoe5","timestamp":"2025-08-04T21:49:47.125Z","type":"api_call","user":"user123","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":7066,"response":{"status":400,"body_size":26680}}}
+{"event_id":"e0p1q2a5h","timestamp":"2025-07-31T00:25:25.648Z","type":"click","user":"guest","element":"button","page_url":"https://app.client.com/dashboard","properties":{"button_text":"Save Changes","x":1369,"y":1076}}
+{"timestamp":"invalid-date","action":"logout","userId":"user123"}
+{"id":"ow0qdlmo7","time_stamp":1754342655,"transaction_type":"sale","customer":null,"amount":59.22,"payment_method":"paypal","items":4}
+{"type":"pageview","uid":"","created_at":"2025-08-05T12:05:11.637Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":70}
+{"error":true,"timestamp":"Tue Aug 05 2025 07:04:51 GMT-0400 (Eastern Daylight Saving Time)","user_id":"guest","error_code":"500","message":"Database connection timeout","stack_trace":null}
+{"login_event":true,"user":"admin","login_time":"2025-08-01T20:35:46.072Z","ip_address":"192.168.230.82","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"type":"pageview","uid":null,"created_at":"2025-08-01T07:46:56.889Z","path":"/api/v1/users","method":"GET","status_code":200,"response_time_ms":572}
+{"login_event":true,"user":"alice_smith","login_time":"2025-08-02T05:37:48.979Z","ip_address":"192.168.215.182","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"event_id":"uof0czpxk","timestamp":"2025-08-03T11:56:45.341Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":137,"response":{"status":400,"body_size":38707}}}
+{"eventId":"nip13y5en","time":1753933743633,"event_type":"user_interaction","sub_type":"click","user_identifier":"","target":"navigation-menu","context":{"url":"https://app.client.com/settings","referrer":"https://google.com"}}
+{"transaction_id":"64f35c1d-c5a0-4593-a020-911c8f4e2518","customer_id":"john.doe","event_name":"purchase_completed","occurred_at":"2025-08-06T08:15:51.235Z","order_details":{"total_amount":"123.57","currency":"USD","items":[{"product_id":"SKU-2bh09ddsp","quantity":3,"price":"43.89"}]}}
+{"login_event":true,"user":"guest","login_time":"2025-08-05T14:33:16.645Z","ip_address":"192.168.37.111","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36","successful":true}
+{"event_id":"89iu21czf","timestamp":"2025-08-02T10:19:21.772Z","type":"api_call","user":"bob-wilson","api":{"endpoint":"/api/v2/analytics/reports","method":"POST","request_size":24,"response":{"status":404,"body_size":34151}}}
+{"event_type":"form_submission","user":"user123"}
