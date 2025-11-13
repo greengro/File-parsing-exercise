@@ -205,6 +205,14 @@ def main():
     with open('unified_events.json', 'w') as f:
         json.dump(valid_events, f, indent=2)
     
+    if invalid_events:
+        with open('invalid_events.json', 'w') as f:
+            json.dump(invalid_events, f, indent=2)
+
+    print(f"\nSaved {len(valid_events)} events to unified_events.json")
+    if invalid_events:
+        print(f"Saved {len(invalid_events)} invalid events to invalid_events.json")
+        
     print(f"\nSaved {len(valid_events)} events to unified_events.json")
 
 
